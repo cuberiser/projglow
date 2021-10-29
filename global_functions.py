@@ -69,10 +69,19 @@ ban_msg = [
     "annoyed some staff and got banned",
     "wanted to see what would happen if you broke rules and got banned",
     "tried to dodge the ban hammer :rofl:",
-    "was blown up by Creeper"
-    "was killed by [Intentional Game Design]"
-    "tried to swim in lava"
-    "experienced kinetic energy"
+    "was blown up by Creeper",
+    "was killed by [Intentional Game Design]",
+    "tried to swim in lava",
+    "experienced kinetic energy",
+    "drowned",
+    "hit the ground too hard",
+    "was squashed by a falling anvil",
+    "was squished too much",
+    "fell out of the world",
+    "went up in flames",
+    "went off with a bang",
+    "was struck by lightning",
+    "discovered the floor was lava",
 ]
 
 
