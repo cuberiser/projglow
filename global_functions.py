@@ -67,7 +67,7 @@ people_list = [
     "Siri",
     "Creepy dude with a knife who is now prolly watching you and is bout to eat you tmmr :)",
     "Dream",
-    "¯\_(ツ)_/¯",
+    "¯\\_(ツ)_/¯",
     "you?",
     "I",
     "Discord",
